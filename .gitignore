@@ -4,10 +4,6 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 # MyCustomIgnore
-*.pdf
-*.zip
-101_Reference/
-Assignment_1/
 include/
 
 # User-specific files
